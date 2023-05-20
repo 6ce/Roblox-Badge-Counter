@@ -18,3 +18,7 @@ Once it's running, it'll count out all your badges, (it shows its progress), onc
 2. Click on the link at the top of your browser
 3. after "/users/" in the URL, there will be a set of numbers, just copy that
 4. You now have the ID
+
+# Disclaimer
+
+For accounts that have large amounts of badges, this will take awhile so beware of that.. and I'm not quite sure if its too accurate although it SHOULD be
