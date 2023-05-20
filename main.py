@@ -27,8 +27,7 @@ ThreadsStarted = 0
 AccInfo = Requests.get(UsersUrl).json()
 
 while True:
-	print(
-	 f"On page: {str(CurrentPage)} - Current Badge Amount: {str(TotalBadges)}")
+	print(f"On page: {str(CurrentPage)} - Current Badge Amount: {str(TotalBadges)}")
 
 	CurrentPage += 1
 
