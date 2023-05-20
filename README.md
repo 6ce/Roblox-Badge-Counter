@@ -21,4 +21,4 @@ Once it's running, it'll count out all your badges, (it shows its progress), onc
 
 # Disclaimer
 
-For accounts that have large amounts of badges, this will take awhile so beware of that.. and I'm not quite sure if its too accurate although it SHOULD be
+For accounts that have large amounts of badges (5-10k+), this will take awhile so beware of that.. and I'm not quite sure if its too accurate although it SHOULD be
